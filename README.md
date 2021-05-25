@@ -6,23 +6,23 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang.
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click
 - [SkYNewZ/GeForce-Now-Games](https://github.com/SkYNewZ/GeForce-Now-Games) - Search if given game name is available on GeForce Now by scraping website or using a JSON static file
 - [SkYNewZ/ufp-ics-calendar](https://github.com/SkYNewZ/ufp-ics-calendar) - Go web server to serve UFP (Universidade Fernando Pessoa) calendar as iCal
 - [SkYNewZ/speedtest-monitor](https://github.com/SkYNewZ/speedtest-monitor) - Monitor your bandwidth using Grafana and InfluxDB
-- [SkYNewZ/owncast-commands](https://github.com/SkYNewZ/owncast-commands) - Provide Twitch-like commands for your stream chat
+- [SkYNewZ/owncast-commands](https://github.com/SkYNewZ/owncast-commands) - Provide Owncast Twitch-like commands for your stream chat
 - [SkYNewZ/docker-google-firestore-emulator](https://github.com/SkYNewZ/docker-google-firestore-emulator) - Google Cloud Firestore emulator in a Docker container
-- [SkYNewZ/feedly-opml-export](https://github.com/SkYNewZ/feedly-opml-export) - Export OPML file from your Feedly account
-- [SkYNewZ/docker-feedly-restic-backup](https://github.com/SkYNewZ/docker-feedly-restic-backup) - Docker image to fetch OPML Feedly exports and backup it using Restic
-- [SkYNewZ/docker-runitor](https://github.com/SkYNewZ/docker-runitor) - A command runner with healthchecks.io integration
 
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (3 days ago)
-- [SkYNewZ/lemairepro.fr](https://github.com/SkYNewZ/lemairepro.fr) - My personal website source code (3 days ago)
-- [SkYNewZ/GeForce-Now-Games](https://github.com/SkYNewZ/GeForce-Now-Games) - Search if given game name is available on GeForce Now by scraping website or using a JSON static file (1 week ago)
-- [SkYNewZ/ufp-ics-calendar](https://github.com/SkYNewZ/ufp-ics-calendar) - Go web server to serve UFP (Universidade Fernando Pessoa) calendar as iCal (2 months ago)
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (2 months ago)
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (today)
+- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (today)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (4 days ago)
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (4 days ago)
+- [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -34,11 +34,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 4 weeks ago
+- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 2 days ago
+- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 1 month ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 2 months ago
 - [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 4 months ago
 - [Simple Go file to understand context cancellation](https://gist.github.com/f0dd984f363346e770acb7d008be6a92) - 5 months ago
-- [Check that each strings fields in a Struct are non-zero value using reflect and return error contains specific tag value](https://gist.github.com/23aea78291be421a956d0874e5571ebb) - 5 months ago
 
 #### 📫 How to reach me
 
@@ -46,3 +46,6 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - Twitter: [@skynewz_](https://twitter.com/skynewz_)
 - LinkedIn: https://www.linkedin.com/in/skynewz/
 - Want email ? [contact@lemairepro.fr](mailto:contact@lemairepro.fr?subject=Contact%20from%20your%20Github%20Profile)
+
+![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skynewz&hide=javascript,html,css,typescript&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skynewz&count_private=true&show_icons=true)
