@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (3 days ago)
-- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (3 days ago)
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (4 days ago)
+- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (4 days ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 week ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 week ago)
 - [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (1 week ago)
@@ -34,7 +34,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 5 days ago
+- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 6 days ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 1 month ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 2 months ago
 - [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 4 months ago
