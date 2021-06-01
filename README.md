@@ -18,11 +18,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (6 days ago)
-- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (6 days ago)
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (1 week ago)
+- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (1 week ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 week ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 week ago)
-- [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (1 week ago)
+- [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
