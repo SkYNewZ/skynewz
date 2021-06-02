@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) - 
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang.
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click
@@ -13,16 +14,15 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/ufp-ics-calendar](https://github.com/SkYNewZ/ufp-ics-calendar) - Go web server to serve UFP (Universidade Fernando Pessoa) calendar as iCal
 - [SkYNewZ/speedtest-monitor](https://github.com/SkYNewZ/speedtest-monitor) - Monitor your bandwidth using Grafana and InfluxDB
 - [SkYNewZ/owncast-commands](https://github.com/SkYNewZ/owncast-commands) - Provide Owncast Twitch-like commands for your stream chat
-- [SkYNewZ/docker-google-firestore-emulator](https://github.com/SkYNewZ/docker-google-firestore-emulator) - Google Cloud Firestore emulator in a Docker container
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (today)
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (1 week ago)
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (1 week ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 week ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 week ago)
-- [SkYNewZ/skynewz.dev](https://github.com/SkYNewZ/skynewz.dev) - Code that&#39;ll help you kickstart a personal website that showcases your work as a software developer. (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
