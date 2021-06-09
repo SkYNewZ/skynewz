@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) - 
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang.
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK
@@ -13,15 +14,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/GeForce-Now-Games](https://github.com/SkYNewZ/GeForce-Now-Games) - Search if given game name is available on GeForce Now by scraping website or using a JSON static file
 - [SkYNewZ/ufp-ics-calendar](https://github.com/SkYNewZ/ufp-ics-calendar) - Go web server to serve UFP (Universidade Fernando Pessoa) calendar as iCal
 - [SkYNewZ/speedtest-monitor](https://github.com/SkYNewZ/speedtest-monitor) - Monitor your bandwidth using Grafana and InfluxDB
-- [SkYNewZ/owncast-commands](https://github.com/SkYNewZ/owncast-commands) - Provide Owncast Twitch-like commands for your stream chat
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (today)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (1 week ago)
-- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (2 weeks ago)
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (2 weeks ago)
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (2 weeks ago)
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (2 weeks ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
