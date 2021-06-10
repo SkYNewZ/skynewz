@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (today)
+- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (1 day ago)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (1 week ago)
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (2 weeks ago)
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (2 weeks ago)
