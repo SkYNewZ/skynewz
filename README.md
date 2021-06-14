@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (4 days ago)
+- [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (5 days ago)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (1 week ago)
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (2 weeks ago)
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (2 weeks ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [restic/restic](https://github.com/restic/restic) ([v0.12.0](https://github.com/restic/restic/releases/tag/v0.12.0), 3 months ago) - Fast, secure, efficient backup program
+- [restic/restic](https://github.com/restic/restic) ([v0.12.0](https://github.com/restic/restic/releases/tag/v0.12.0), 4 months ago) - Fast, secure, efficient backup program
 - [SkYNewZ/terraform-credentials-gcs](https://github.com/SkYNewZ/terraform-credentials-gcs) ([v0.0.1](https://github.com/SkYNewZ/terraform-credentials-gcs/releases/tag/v0.0.1), 7 months ago) - Terraform credentials helper for Google Cloud Storage
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 1 year ago) - Radarr Go client
 
