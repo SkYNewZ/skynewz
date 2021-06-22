@@ -20,8 +20,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (1 week ago)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (2 weeks ago)
-- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (3 weeks ago)
-- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (3 weeks ago)
+- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (4 weeks ago)
+- [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (4 weeks ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
@@ -34,8 +34,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 4 weeks ago
-- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 1 month ago
+- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 1 month ago
+- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 2 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 3 months ago
 - [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 5 months ago
 - [Simple Go file to understand context cancellation](https://gist.github.com/f0dd984f363346e770acb7d008be6a92) - 6 months ago
