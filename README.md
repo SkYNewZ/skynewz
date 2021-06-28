@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg
 - [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) - 
 - [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang.
@@ -13,15 +14,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click
 - [SkYNewZ/GeForce-Now-Games](https://github.com/SkYNewZ/GeForce-Now-Games) - Search if given game name is available on GeForce Now by scraping website or using a JSON static file
 - [SkYNewZ/ufp-ics-calendar](https://github.com/SkYNewZ/ufp-ics-calendar) - Go web server to serve UFP (Universidade Fernando Pessoa) calendar as iCal
-- [SkYNewZ/speedtest-monitor](https://github.com/SkYNewZ/speedtest-monitor) - Monitor your bandwidth using Grafana and InfluxDB
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (today)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 day ago)
 - [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (2 weeks ago)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (3 weeks ago)
-- [SkYNewZ/hello-graphql](https://github.com/SkYNewZ/hello-graphql) - https://jsonplaceholder.typicode.com GraphQL wrapper written in Golang. (1 month ago)
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
