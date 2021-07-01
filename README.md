@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (today)
-- [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (2 days ago)
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 day ago)
+- [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (3 days ago)
 - [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository (3 weeks ago)
 - [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) -  (4 weeks ago)
 - [SkYNewZ/jsonplaceholder](https://github.com/SkYNewZ/jsonplaceholder) - https://jsonplaceholder.typicode.com Golang SDK (1 month ago)
