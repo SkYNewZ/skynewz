@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), today) - Fast, secure, efficient backup program
+- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 1 day ago) - Fast, secure, efficient backup program
 - [SkYNewZ/terraform-credentials-gcs](https://github.com/SkYNewZ/terraform-credentials-gcs) ([v0.0.1](https://github.com/SkYNewZ/terraform-credentials-gcs/releases/tag/v0.0.1), 9 months ago) - Terraform credentials helper for Google Cloud Storage
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 1 year ago) - Radarr Go client
 
@@ -37,7 +37,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 2 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 3 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 4 months ago
-- [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 6 months ago
+- [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 7 months ago
 - [Simple Go file to understand context cancellation](https://gist.github.com/f0dd984f363346e770acb7d008be6a92) - 7 months ago
 
 #### 📫 How to reach me
