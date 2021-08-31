@@ -27,8 +27,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 3 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 3 weeks ago) - Fast, secure, efficient backup program
+- [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 4 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 4 weeks ago) - Fast, secure, efficient backup program
 - [SkYNewZ/terraform-credentials-gcs](https://github.com/SkYNewZ/terraform-credentials-gcs) ([v0.0.1](https://github.com/SkYNewZ/terraform-credentials-gcs/releases/tag/v0.0.1), 10 months ago) - Terraform credentials helper for Google Cloud Storage
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 1 year ago) - Radarr Go client
 
