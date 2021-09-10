@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (3 weeks ago)
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (4 weeks ago)
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist (2 months ago)
 - [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (2 months ago)
 - [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (2 months ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 1 week ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 2 weeks ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 1 month ago) - Fast, secure, efficient backup program
 - [SkYNewZ/terraform-credentials-gcs](https://github.com/SkYNewZ/terraform-credentials-gcs) ([v0.0.1](https://github.com/SkYNewZ/terraform-credentials-gcs/releases/tag/v0.0.1), 10 months ago) - Terraform credentials helper for Google Cloud Storage
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 1 year ago) - Radarr Go client
