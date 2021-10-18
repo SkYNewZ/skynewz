@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (3 weeks ago)
+- [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (4 weeks ago)
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (2 months ago)
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist (3 months ago)
 - [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (3 months ago)
@@ -30,7 +30,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 1 month ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 2 months ago) - Fast, secure, efficient backup program
 - [SkYNewZ/terraform-credentials-gcs](https://github.com/SkYNewZ/terraform-credentials-gcs) ([v0.0.1](https://github.com/SkYNewZ/terraform-credentials-gcs/releases/tag/v0.0.1), 1 year ago) - Terraform credentials helper for Google Cloud Storage
-- [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 1 year ago) - Radarr Go client
+- [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 2 years ago) - Radarr Go client
 
 #### ✏️ Recent snippets
 
