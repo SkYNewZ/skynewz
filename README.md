@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (4 weeks ago)
+- [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (1 month ago)
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (2 months ago)
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist (3 months ago)
 - [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg (3 months ago)
@@ -35,8 +35,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 4 months ago
-- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 5 months ago
+- [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 5 months ago
+- [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 6 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 7 months ago
 - [List Terraform Cloud workspaces and related runs matching date](https://gist.github.com/38ea3bbebcdaca62f3bbaeee49ce156b) - 9 months ago
 - [Simple Go file to understand context cancellation](https://gist.github.com/f0dd984f363346e770acb7d008be6a92) - 10 months ago
