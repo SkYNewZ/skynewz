@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers. (5 days ago)
+- [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers. (6 days ago)
 - [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (1 month ago)
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (2 months ago)
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist (3 months ago)
@@ -28,13 +28,13 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [tinode/chat](https://github.com/tinode/chat) ([v0.17.10](https://github.com/tinode/chat/releases/tag/v0.17.10), 2 months ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 2 months ago) - Fast, secure, efficient backup program
+- [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 3 months ago) - Fast, secure, efficient backup program
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 2 years ago) - Radarr Go client
 
 #### ✏️ Recent snippets
 
 
-- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 3 days ago
+- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 4 days ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 5 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 6 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 7 months ago
