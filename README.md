@@ -18,10 +18,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (1 day ago)
+- [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (2 days ago)
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers. (2 weeks ago)
 - [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC (1 month ago)
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (2 months ago)
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (3 months ago)
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
@@ -34,7 +34,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 1 week ago
+- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 2 weeks ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 5 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 6 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 8 months ago
