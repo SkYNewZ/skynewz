@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (2 days ago)
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (3 days ago)
+- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (3 days ago)
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (4 days ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (1 week ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (2 weeks ago)
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers. (1 month ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc1](https://github.com/tinode/chat/releases/tag/v0.18.0-rc1), 3 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc1](https://github.com/tinode/chat/releases/tag/v0.18.0-rc1), 4 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 3 months ago) - Fast, secure, efficient backup program
 - [SkYNewZ/radarr](https://github.com/SkYNewZ/radarr) ([v0.0.6](https://github.com/SkYNewZ/radarr/releases/tag/v0.0.6), 2 years ago) - Radarr Go client
 
