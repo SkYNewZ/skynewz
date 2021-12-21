@@ -19,7 +19,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click (1 week ago)
-- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (3 weeks ago)
+- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (4 weeks ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (1 month ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (1 month ago)
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers. (1 month ago)
