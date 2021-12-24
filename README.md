@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc2](https://github.com/tinode/chat/releases/tag/v0.18.0-rc2), 2 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc2](https://github.com/tinode/chat/releases/tag/v0.18.0-rc2), 3 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 1 week ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click
 - [restic/restic](https://github.com/restic/restic) ([v0.12.1](https://github.com/restic/restic/releases/tag/v0.12.1), 4 months ago) - Fast, secure, efficient backup program
 
