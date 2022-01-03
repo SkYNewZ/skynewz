@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) -  (5 days ago)
+- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) -  (6 days ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (3 weeks ago)
 - [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (1 month ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (1 month ago)
@@ -28,7 +28,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc2](https://github.com/tinode/chat/releases/tag/v0.18.0-rc2), 1 week ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 2 weeks ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 3 weeks ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ✏️ Recent snippets
 
