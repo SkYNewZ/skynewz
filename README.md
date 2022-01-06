@@ -10,10 +10,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers.
 - [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC
+- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck
 - [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist
 - [SkYNewZ/twitch-chat-overlay](https://github.com/SkYNewZ/twitch-chat-overlay) - Fork of https://codepen.io/gylidian/pen/NWWzGGg
 - [SkYNewZ/template](https://github.com/SkYNewZ/template) - Template repository
-- [SkYNewZ/images-server](https://github.com/SkYNewZ/images-server) - 
 
 #### 👷 Check out what I'm currently working on
 
