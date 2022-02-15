@@ -18,22 +18,22 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 week ago)
+- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (2 weeks ago)
 - [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) -  (1 month ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (2 months ago)
 - [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (2 months ago)
-- [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (2 months ago)
+- [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc3](https://github.com/tinode/chat/releases/tag/v0.18.0-rc3), 5 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.0-rc3](https://github.com/tinode/chat/releases/tag/v0.18.0-rc3), 6 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 2 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ✏️ Recent snippets
 
 
-- [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 2 weeks ago
+- [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 3 weeks ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 3 months ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 8 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 9 months ago
