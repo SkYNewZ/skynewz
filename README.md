@@ -21,13 +21,13 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (2 weeks ago)
 - [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) -  (1 month ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (2 months ago)
-- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (2 months ago)
+- [SkYNewZ/speedtest-prometheus-exporter](https://github.com/SkYNewZ/speedtest-prometheus-exporter) - Speedtest Prometheus exporter made in Go (3 months ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.1](https://github.com/tinode/chat/releases/tag/v0.18.1), 2 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.1](https://github.com/tinode/chat/releases/tag/v0.18.1), 3 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 2 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ✏️ Recent snippets
