@@ -27,14 +27,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.1](https://github.com/tinode/chat/releases/tag/v0.18.1), 6 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.1](https://github.com/tinode/chat/releases/tag/v0.18.1), 1 week ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 2 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ✏️ Recent snippets
 
 
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 1 month ago
-- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 3 months ago
+- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 4 months ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 9 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 10 months ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 11 months ago
