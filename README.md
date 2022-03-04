@@ -7,7 +7,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go
-- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) - 
+- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers.
 - [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC
@@ -21,7 +21,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (1 day ago)
 - [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (2 days ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
-- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) -  (2 months ago)
+- [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store. (2 months ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
