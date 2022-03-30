@@ -21,14 +21,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (2 weeks ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 weeks ago)
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (3 weeks ago)
-- [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (3 weeks ago)
+- [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (4 weeks ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.6.2](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.6.2), 2 days ago) - 🏎️ TUI for F1TV
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.3](https://github.com/tinode/chat/releases/tag/v0.18.3), 5 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.6.2](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.6.2), 3 days ago) - 🏎️ TUI for F1TV
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.3](https://github.com/tinode/chat/releases/tag/v0.18.3), 6 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 3 weeks ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 3 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
