@@ -28,7 +28,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 2 weeks ago) - 🏎️ TUI for F1TV
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.4](https://github.com/tinode/chat/releases/tag/v0.18.4), 2 weeks ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.4](https://github.com/tinode/chat/releases/tag/v0.18.4), 3 weeks ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 1 month ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 4 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) ([v1.3.2](https://github.com/saphoooo/freebox_exporter/releases/tag/v1.3.2), 1 year ago) - A prometheus exporter for freebox stats
@@ -36,7 +36,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
-- [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 2 months ago
+- [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 3 months ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 5 months ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 11 months ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 1 year ago
