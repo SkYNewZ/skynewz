@@ -21,15 +21,15 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (3 weeks ago)
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (1 month ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (1 month ago)
-- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (1 month ago)
+- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (2 months ago)
 - [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.18.5](https://github.com/tinode/chat/releases/tag/v0.18.5), today) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.18.5](https://github.com/tinode/chat/releases/tag/v0.18.5), 1 day ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 3 weeks ago) - 🏎️ TUI for F1TV
-- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 1 month ago) - Control your Yeelight with Streamdeck
+- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 2 months ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 4 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) ([v1.3.2](https://github.com/saphoooo/freebox_exporter/releases/tag/v1.3.2), 1 year ago) - A prometheus exporter for freebox stats
 
