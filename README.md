@@ -19,7 +19,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (1 month ago)
-- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (1 month ago)
+- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (2 months ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (2 months ago)
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (2 months ago)
 - [SkYNewZ/go-yeelight](https://github.com/SkYNewZ/go-yeelight) - Go interface to control Xiaomi Yeelights (2 months ago)
