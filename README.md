@@ -6,23 +6,23 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Put.io k8s operator
+- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported.
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go
 - [SkYNewZ/epicgames-freebies-claimer](https://github.com/SkYNewZ/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds
 - [SkYNewZ/grpc-jsonplaceholder](https://github.com/SkYNewZ/grpc-jsonplaceholder) - gRPC draft intended to provide jsonplaceholder resources over protocol buffers.
 - [SkYNewZ/hello-protobuf](https://github.com/SkYNewZ/hello-protobuf) - Hello world project to learn Protocol Buffers and gRPC
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck
-- [SkYNewZ/screm](https://github.com/SkYNewZ/screm) - Simple background service which answers a sound based on a Twitch chat command. Support whitelist
 
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Put.io k8s operator (1 day ago)
+- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (today)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (1 day ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (2 months ago)
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (3 months ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 months ago)
-- [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) - Control your Yeelight with Streamdeck (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
