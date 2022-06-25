@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (3 days ago)
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (4 days ago)
+- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (4 days ago)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (5 days ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (2 months ago)
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (3 months ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 months ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.20.0-beta2](https://github.com/tinode/chat/releases/tag/v0.20.0-beta2), 5 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.20.0-beta2](https://github.com/tinode/chat/releases/tag/v0.20.0-beta2), 6 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 2 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 3 months ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 6 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
@@ -37,7 +37,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 5 months ago
-- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 7 months ago
+- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 8 months ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 1 year ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 1 year ago
 - [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 1 year ago
