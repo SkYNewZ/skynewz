@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (5 days ago)
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (6 days ago)
+- [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (6 days ago)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (1 week ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (2 months ago)
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (3 months ago)
 - [SkYNewZ/youtube-subscription-feed](https://github.com/SkYNewZ/youtube-subscription-feed) - Generate an opml file containing your YouTube subscriptions RSS feeds (3 months ago)
