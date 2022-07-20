@@ -22,12 +22,12 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (2 weeks ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (2 weeks ago)
 - [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (4 weeks ago)
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (4 weeks ago)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tinode/chat](https://github.com/tinode/chat) ([v0.20.0-beta3](https://github.com/tinode/chat/releases/tag/v0.20.0-beta3), 4 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tinode/chat](https://github.com/tinode/chat) ([v0.20.0-beta3](https://github.com/tinode/chat/releases/tag/v0.20.0-beta3), 5 days ago) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 3 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 4 months ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 7 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
