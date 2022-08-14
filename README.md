@@ -19,8 +19,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (1 month ago)
-- [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (1 month ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (1 month ago)
+- [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (1 month ago)
 - [SkYNewZ/terraform-provider-putio](https://github.com/SkYNewZ/terraform-provider-putio) - Manage https://app.put.io resources with Terraform. Currently only RSS feeds automation supported. (1 month ago)
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage Put.io resources as Kubernetes CRDs (1 month ago)
 
