@@ -22,7 +22,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (2 months ago)
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (2 months ago)
 - [SkYNewZ/github-notifications-rss](https://github.com/SkYNewZ/github-notifications-rss) - Go HTTP handler to view your Github notifications as JSONFeed (5 months ago)
-- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (5 months ago)
+- [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) - 🏎️ TUI for F1TV (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
