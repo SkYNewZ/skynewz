@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (today)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (1 day ago)
 - [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (2 months ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (2 months ago)
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (2 months ago)
@@ -29,7 +29,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 5 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 6 months ago) - Control your Yeelight with Streamdeck
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 8 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 9 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) ([v1.3.2](https://github.com/saphoooo/freebox_exporter/releases/tag/v1.3.2), 2 years ago) - A prometheus exporter for freebox stats
 
 #### ✏️ Recent snippets
