@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.1](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.1), 3 days ago) - Manage RSS feeds from Kubernetes Custom Resources 
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.1](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.1), today) - Manage RSS feeds from Kubernetes Custom Resources 
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 5 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 6 months ago) - Control your Yeelight with Streamdeck
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 9 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
