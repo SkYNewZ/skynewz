@@ -20,9 +20,9 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (2 weeks ago)
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (1 month ago)
-- [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (4 months ago)
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (4 months ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (4 months ago)
+- [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
