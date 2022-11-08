@@ -36,11 +36,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### ✏️ Recent snippets
 
 
+- [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - today
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 9 months ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 1 year ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 1 year ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 2 years ago
-- [How to test a Flask/HTTP Cloud Function in Python ?](https://gist.github.com/aa4fb352c52e209776e11ba442160544) - 2 years ago
 
 #### 📫 How to reach me
 
