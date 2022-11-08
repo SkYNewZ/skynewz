@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (2 days ago)
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (3 weeks ago)
+- [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (3 days ago)
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (4 weeks ago)
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (1 month ago)
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (4 months ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (4 months ago)
@@ -27,10 +27,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 3 weeks ago) - Manage RSS feeds from Kubernetes Custom Resources 
+- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 4 weeks ago) - Manage RSS feeds from Kubernetes Custom Resources 
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 7 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 8 months ago) - Control your Yeelight with Streamdeck
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 10 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 11 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) ([v1.3.2](https://github.com/saphoooo/freebox_exporter/releases/tag/v1.3.2), 2 years ago) - A prometheus exporter for freebox stats
 
 #### ✏️ Recent snippets
