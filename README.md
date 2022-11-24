@@ -31,7 +31,6 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 1 month ago) - Manage RSS feeds from Kubernetes Custom Resources 
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) ([v2.7.0](https://github.com/SoMuchForSubtlety/f1viewer/releases/tag/v2.7.0), 7 months ago) - 🏎️ TUI for F1TV
 - [SkYNewZ/streamdeck-yeelight](https://github.com/SkYNewZ/streamdeck-yeelight) ([v0.0.3](https://github.com/SkYNewZ/streamdeck-yeelight/releases/tag/v0.0.3), 8 months ago) - Control your Yeelight with Streamdeck
-- [saphoooo/freebox_exporter](https://github.com/saphoooo/freebox_exporter) ([v1.3.2](https://github.com/saphoooo/freebox_exporter/releases/tag/v1.3.2), 2 years ago) - A prometheus exporter for freebox stats
 
 #### ✏️ Recent snippets
 
