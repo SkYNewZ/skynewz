@@ -21,7 +21,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (1 month ago)
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (1 month ago)
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (2 months ago)
-- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (2 months ago)
+- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (3 months ago)
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (5 months ago)
 
 #### 🚀 Latest releases I've contributed to
