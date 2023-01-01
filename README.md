@@ -22,7 +22,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (1 month ago)
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (2 months ago)
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (3 months ago)
-- [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client (6 months ago)
+- [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
