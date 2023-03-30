@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.29.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.29.0), 5 days ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.29.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.29.0), 6 days ago) - Terraform OVH provider
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 4 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 5 months ago) - Manage RSS feeds from Kubernetes Custom Resources 
 
