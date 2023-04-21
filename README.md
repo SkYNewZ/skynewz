@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.29.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.29.0), 3 weeks ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.29.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.29.0), 4 weeks ago) - Terraform OVH provider
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.2](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.2), 5 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 6 months ago) - Manage RSS feeds from Kubernetes Custom Resources 
 
@@ -36,7 +36,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 5 months ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 1 year ago
-- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 1 year ago
+- [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 2 years ago
 - [Collect and handle multiple errors in Go](https://gist.github.com/f430d44a9bab539696c27b98c44a7921) - 2 years ago
 - [Context cancellation example in Go](https://gist.github.com/36b5256e0f0c4094cadfc1d9f1f96547) - 2 years ago
 
