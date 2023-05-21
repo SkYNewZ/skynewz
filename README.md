@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (4 days ago)
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (5 days ago)
 - [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (2 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (2 months ago)
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (6 months ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 4 days ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 5 days ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.30.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.30.0), 2 weeks ago) - Terraform OVH provider
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 7 months ago) - Manage RSS feeds from Kubernetes Custom Resources 
 
