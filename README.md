@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (2 months ago)
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (3 months ago)
 - [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (3 months ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (5 months ago)
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (9 months ago)
@@ -28,7 +28,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.32.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.32.0), 3 weeks ago) - Terraform OVH provider
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 2 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 3 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) ([v0.0.4](https://github.com/SkYNewZ/putio-operator/releases/tag/v0.0.4), 10 months ago) - Manage RSS feeds from Kubernetes Custom Resources 
 
 #### ✏️ Recent snippets
