@@ -18,11 +18,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (today)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (3 months ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (4 months ago)
 - [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (4 months ago)
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist (10 months ago)
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources  (11 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
