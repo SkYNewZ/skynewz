@@ -18,17 +18,25 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (today)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (today)
+- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (1 day ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (4 months ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (5 months ago)
-- [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.34.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.34.0), 1 month ago) - Terraform OVH provider
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 5 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+
+#### ⭐ Recent stars
+
+- [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome (today)
+- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (today)
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (today)
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages. (today)
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (today)
 
 #### ✏️ Recent snippets
 
@@ -42,9 +50,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 📫 How to reach me
 
 - Websites: https://lemairepro.fr and https://skynewz.dev
-- Twitter: [@skynewz_](https://twitter.com/skynewz_)
+- Twitter: [@skynewz](https://twitter.com/skynewz)
 - LinkedIn: https://www.linkedin.com/in/skynewz/
 - Want email ? [contact@lemairepro.fr](mailto:contact@lemairepro.fr?subject=Contact%20from%20your%20Github%20Profile)
 
 ![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skynewz&hide=javascript,html,css,typescript&layout=compact)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skynewz&count_private=true&show_icons=true)
+
