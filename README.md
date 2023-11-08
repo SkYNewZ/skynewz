@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (today)
+- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (today)
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Download links to put.io with right-click in browsers (today)
 - [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲 (today)
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome (today)
-- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (today)
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (today)
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages. (today)
 
 #### ✏️ Recent snippets
 
