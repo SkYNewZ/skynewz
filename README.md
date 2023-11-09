@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (today)
-- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (1 day ago)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 day ago)
+- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (2 days ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (4 months ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (5 months ago)
@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (today)
-- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (today)
-- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Download links to put.io with right-click in browsers (today)
-- [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲 (today)
-- [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome (today)
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 day ago)
+- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (1 day ago)
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Download links to put.io with right-click in browsers (1 day ago)
+- [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲 (1 day ago)
+- [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome (1 day ago)
 
 #### ✏️ Recent snippets
 
