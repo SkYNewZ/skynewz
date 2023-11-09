@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. (today)
+- [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID (today)
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file (today)
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 day ago)
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (1 day ago)
-- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Download links to put.io with right-click in browsers (1 day ago)
-- [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲 (1 day ago)
 
 #### ✏️ Recent snippets
 
