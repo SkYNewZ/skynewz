@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) (today)
 - [cli/browser](https://github.com/cli/browser) - Go helpers to open URLs, files, or readers in a web browser. (1 day ago)
 - [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. (1 day ago)
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID (1 day ago)
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file (1 day ago)
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 days ago)
 
 #### ✏️ Recent snippets
 
