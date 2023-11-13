@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [jussi-kalliokoski/slogdriver](https://github.com/jussi-kalliokoski/slogdriver) - Stackdriver Logging / GCP Cloud Logging handler for the go 1.21 slog package. (today)
+- [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog` (today)
 - [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) (3 days ago)
 - [cli/browser](https://github.com/cli/browser) - Go helpers to open URLs, files, or readers in a web browser. (4 days ago)
 - [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. (4 days ago)
-- [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID (4 days ago)
-- [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file (4 days ago)
 
 #### ✏️ Recent snippets
 
