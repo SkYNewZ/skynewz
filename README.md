@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler (today)
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (today)
 - [jussi-kalliokoski/slogdriver](https://github.com/jussi-kalliokoski/slogdriver) - Stackdriver Logging / GCP Cloud Logging handler for the go 1.21 slog package. (today)
 - [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog` (today)
 - [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) (3 days ago)
-- [cli/browser](https://github.com/cli/browser) - Go helpers to open URLs, files, or readers in a web browser. (4 days ago)
-- [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. (4 days ago)
 
 #### ✏️ Recent snippets
 
