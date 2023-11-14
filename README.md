@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library (today)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (today)
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze&#39;s B2. (1 day ago)
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up (1 day ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 day ago)
-- [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler (1 day ago)
 
 #### ✏️ Recent snippets
 
