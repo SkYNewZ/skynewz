@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (5 days ago)
-- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (6 days ago)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (6 days ago)
+- [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (1 week ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (4 months ago)
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray (6 months ago)
@@ -27,21 +27,21 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.35.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.35.0), 4 days ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.35.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.35.0), 5 days ago) - Terraform OVH provider
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 6 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ⭐ Recent stars
 
-- [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler (today)
-- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (today)
-- [jussi-kalliokoski/slogdriver](https://github.com/jussi-kalliokoski/slogdriver) - Stackdriver Logging / GCP Cloud Logging handler for the go 1.21 slog package. (today)
-- [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog` (today)
-- [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) (3 days ago)
+- [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze&#39;s B2. (1 day ago)
+- [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up (1 day ago)
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 day ago)
+- [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler (1 day ago)
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 day ago)
 
 #### ✏️ Recent snippets
 
 
-- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 4 days ago
+- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 5 days ago
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 1 year ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 2 years ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 2 years ago
