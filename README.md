@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate various helpers for log/slog (today)
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (today)
 - [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library (today)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (today)
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze&#39;s B2. (1 day ago)
-- [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up (1 day ago)
 
 #### ✏️ Recent snippets
 
