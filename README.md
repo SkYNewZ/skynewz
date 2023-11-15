@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (today)
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger (1 day ago)
 - [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog&#39;s console writer output without sacrificing performances (1 day ago)
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (1 day ago)
 - [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate various helpers for log/slog (1 day ago)
-- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (1 day ago)
 
 #### ✏️ Recent snippets
 
