@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions.
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist
@@ -13,16 +14,15 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources 
 - [SkYNewZ/go-jackett](https://github.com/SkYNewZ/go-jackett) - Jackett Go client
 - [SkYNewZ/go-yggtorrent-parser](https://github.com/SkYNewZ/go-yggtorrent-parser) - YggTorrent HTML search results parser. Works well with FlareSolverr
-- [SkYNewZ/go-flaresolverr](https://github.com/SkYNewZ/go-flaresolverr) - Go client for https://github.com/FlareSolverr/FlareSolverr
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (today)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 week ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (3 weeks ago)
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (3 weeks ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (2 months ago)
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (5 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [adityak74/google-drive-upload-git-action](https://github.com/adityak74/google-drive-upload-git-action) - Github action that uploads files to Google Drive (today)
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (today)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (2 days ago)
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go (4 days ago)
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (4 days ago)
-- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (5 days ago)
 
 #### ✏️ Recent snippets
 
