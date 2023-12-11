@@ -18,11 +18,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (today)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 day ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (2 weeks ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 month ago)
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (1 month ago)
-- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
