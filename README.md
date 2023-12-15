@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [iamelevich/pocketbase-plugin-telegram-auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - This plugin implements Telegram WebApp Auth and Telegram Login Widget for the pocketbase (today)
+- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (today)
+- [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python (today)
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq (1 day ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 days ago)
-- [anon-org/golang-dependency-injection-using-wire](https://github.com/anon-org/golang-dependency-injection-using-wire) - Golang Dependency Injection Using Wire Repository (3 days ago)
-- [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go. (3 days ago)
-- [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) - go test output for humans (6 days ago)
 
 #### ✏️ Recent snippets
 
