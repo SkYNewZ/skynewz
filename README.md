@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [amalfra/etag](https://github.com/amalfra/etag) - A go package to create HTTP ETags (today)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (today)
 - [iamelevich/pocketbase-plugin-telegram-auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - This plugin implements Telegram WebApp Auth and Telegram Login Widget for the pocketbase (2 days ago)
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (2 days ago)
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python (2 days ago)
-- [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq (3 days ago)
 
 #### ✏️ Recent snippets
 
