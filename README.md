@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (6 days ago)
-- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (6 days ago)
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 week ago)
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 week ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (3 weeks ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 month ago)
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (1 month ago)
@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [amalfra/etag](https://github.com/amalfra/etag) - A go package to create HTTP ETags (today)
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (today)
-- [iamelevich/pocketbase-plugin-telegram-auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - This plugin implements Telegram WebApp Auth and Telegram Login Widget for the pocketbase (2 days ago)
-- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (2 days ago)
-- [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python (2 days ago)
+- [amalfra/etag](https://github.com/amalfra/etag) - A go package to create HTTP ETags (1 day ago)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (1 day ago)
+- [iamelevich/pocketbase-plugin-telegram-auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - This plugin implements Telegram WebApp Auth and Telegram Login Widget for the pocketbase (3 days ago)
+- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources. (3 days ago)
+- [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python (3 days ago)
 
 #### ✏️ Recent snippets
 
