@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (2 days ago)
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (3 days ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 week ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 month ago)
@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (1 day ago)
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang (2 days ago)
-- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (2 days ago)
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (2 days ago)
-- [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened. (3 days ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (today)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 day ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (2 days ago)
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang (3 days ago)
 
 #### ✏️ Recent snippets
 
