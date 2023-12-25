@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK (today)
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (2 days ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 days ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 days ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (4 days ago)
 
 #### ✏️ Recent snippets
 
