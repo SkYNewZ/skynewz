@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (today)
 - [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK (1 day ago)
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (3 days ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (3 days ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 days ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 days ago)
 
 #### ✏️ Recent snippets
 
