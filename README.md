@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (6 days ago)
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 week ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (2 weeks ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 month ago)
@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (today)
-- [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK (1 day ago)
-- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (3 days ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (3 days ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 days ago)
+- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (1 day ago)
+- [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK (2 days ago)
+- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (4 days ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (4 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 days ago)
 
 #### ✏️ Recent snippets
 
