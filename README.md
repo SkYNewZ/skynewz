@@ -18,10 +18,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (5 days ago)
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (6 days ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (2 weeks ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (3 weeks ago)
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 month ago)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (2 months ago)
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
@@ -33,10 +33,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (3 days ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (4 days ago)
-- [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs. (4 days ago)
-- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (4 days ago)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (4 days ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (5 days ago)
+- [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs. (5 days ago)
+- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (5 days ago)
 - [jjti/go-spancheck](https://github.com/jjti/go-spancheck) - checks usage of OpenTelemetry spans (1 week ago)
 
 #### ✏️ Recent snippets
