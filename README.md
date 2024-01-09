@@ -27,8 +27,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.36.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.36.0), today) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.1](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.1), 1 month ago) - Pushover handler for slog logger
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.35.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.35.0), 2 months ago) - Terraform OVH provider
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 7 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ⭐ Recent stars
