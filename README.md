@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation. (today)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (today)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (1 week ago)
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (2 weeks ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (3 weeks ago)
 
 #### ✏️ Recent snippets
 
