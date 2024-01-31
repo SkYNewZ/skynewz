@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (today)
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (today)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (1 day ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (2 days ago)
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema. (2 days ago)
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (2 days ago)
 
 #### ✏️ Recent snippets
 
