@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (1 week ago)
+- [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (today)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 month ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 month ago)
@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network. (today)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (today)
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (6 days ago)
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (6 days ago)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (1 week ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 
 #### ✏️ Recent snippets
 
