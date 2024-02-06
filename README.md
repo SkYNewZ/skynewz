@@ -22,20 +22,20 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 month ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 month ago)
-- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (2 months ago)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.36.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.36.1), 3 weeks ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.36.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.36.1), 4 weeks ago) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.1](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.1), 2 months ago) - Pushover handler for slog logger
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 8 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ⭐ Recent stars
 
-- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (5 days ago)
-- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (5 days ago)
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (6 days ago)
+- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (6 days ago)
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (6 days ago)
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (1 week ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema. (1 week ago)
 
