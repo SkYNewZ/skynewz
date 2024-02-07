@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (today)
+- [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (1 day ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 month ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (1 month ago)
@@ -33,17 +33,17 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers. (today)
-- [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH. (today)
-- [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network. (today)
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (today)
-- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (6 days ago)
+- [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers. (1 day ago)
+- [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH. (1 day ago)
+- [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network. (1 day ago)
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (1 day ago)
+- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (1 week ago)
 
 #### ✏️ Recent snippets
 
 
 - [.golangci.yaml golden configuration](https://gist.github.com/1298ddacb28d23738a9498509765baae) - 2 months ago
-- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 2 months ago
+- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 3 months ago
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 1 year ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 2 years ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 2 years ago
