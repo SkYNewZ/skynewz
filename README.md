@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [actions/delete-package-versions](https://github.com/actions/delete-package-versions) (today)
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (2 days ago)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 week ago)
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers. (1 week ago)
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH. (1 week ago)
-- [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network. (1 week ago)
 
 #### ✏️ Recent snippets
 
