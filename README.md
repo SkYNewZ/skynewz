@@ -33,11 +33,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (today)
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀  (1 day ago)
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi) (1 day ago)
 - [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - Use your own Reddit and Imgur API credentials in Apollo (1 day ago)
 - [actions/delete-package-versions](https://github.com/actions/delete-package-versions) (4 days ago)
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (6 days ago)
 
 #### ✏️ Recent snippets
 
