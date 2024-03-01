@@ -18,9 +18,9 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (3 days ago)
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (4 days ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (2 weeks ago)
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (2 months ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (2 months ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (3 months ago)
 
@@ -33,8 +33,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (2 days ago)
-- [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface (4 days ago)
+- [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (3 days ago)
+- [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface (5 days ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 week ago)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (1 week ago)
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀  (1 week ago)
