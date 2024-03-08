@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (today)
+- [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 day ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (3 weeks ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (2 months ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (2 months ago)
@@ -33,7 +33,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (6 days ago)
+- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (1 week ago)
 - [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (1 week ago)
 - [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface (1 week ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (2 weeks ago)
@@ -43,7 +43,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [.golangci.yaml golden configuration](https://gist.github.com/1298ddacb28d23738a9498509765baae) - 3 months ago
-- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 3 months ago
+- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 4 months ago
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 1 year ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 2 years ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 2 years ago
