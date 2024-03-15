@@ -27,14 +27,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.39.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.39.0), 3 days ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.39.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.39.0), 4 days ago) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.1](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.1), 3 months ago) - Pushover handler for slog logger
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 10 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ⭐ Recent stars
 
-- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 day ago)
-- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (1 week ago)
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (2 days ago)
+- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (2 weeks ago)
 - [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (2 weeks ago)
 - [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface (2 weeks ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
