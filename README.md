@@ -33,9 +33,9 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (5 days ago)
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (6 days ago)
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (2 weeks ago)
-- [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (2 weeks ago)
+- [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (3 weeks ago)
 - [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface (3 weeks ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 
