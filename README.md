@@ -33,7 +33,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (5 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (6 days ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (2 weeks ago)
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (1 month ago)
 - [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml (1 month ago)
