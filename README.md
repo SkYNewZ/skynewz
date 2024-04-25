@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (5 days ago)
+- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (6 days ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 week ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 month ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (2 months ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.43.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.43.1), 1 day ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.43.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.43.1), 2 days ago) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.1](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.1), 5 months ago) - Pushover handler for slog logger
 - [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 11 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
@@ -35,7 +35,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
 - [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS (3 weeks ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 weeks ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 month ago)
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd (1 month ago)
 
