@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (5 days ago)
-- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (2 weeks ago)
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (6 days ago)
+- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (3 weeks ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (2 months ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (2 months ago)
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects. (5 months ago)
@@ -27,9 +27,9 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.44.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.44.0), 3 days ago) - Terraform OVH provider
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 5 days ago) - Pushover handler for slog logger
-- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 11 months ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.44.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.44.0), 4 days ago) - Terraform OVH provider
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 6 days ago) - Pushover handler for slog logger
+- [SkYNewZ/twitch-clip](https://github.com/SkYNewZ/twitch-clip) ([v0.0.3](https://github.com/SkYNewZ/twitch-clip/releases/tag/v0.0.3), 1 year ago) - Twitch-aware application to watch followed live streams in your favorite media player, with a simple click, from system tray
 
 #### ⭐ Recent stars
 
