@@ -34,7 +34,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (3 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 days ago)
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager (4 days ago)
+- [mhnightcat/superfile](https://github.com/mhnightcat/superfile) - Pretty fancy and modern terminal file manager (4 days ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic (4 days ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 
