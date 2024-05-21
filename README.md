@@ -32,7 +32,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (6 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic (1 week ago)
