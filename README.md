@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.45.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.45.0), 1 day ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.45.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.45.0), 2 days ago) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 2 weeks ago) - Pushover handler for slog logger
 
 #### ⭐ Recent stars
