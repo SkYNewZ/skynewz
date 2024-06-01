@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (3 weeks ago)
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (4 weeks ago)
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (1 month ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (2 months ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (3 months ago)
@@ -28,11 +28,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.45.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.45.0), 1 week ago) - Terraform OVH provider
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 3 weeks ago) - Pushover handler for slog logger
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 4 weeks ago) - Pushover handler for slog logger
 
 #### ⭐ Recent stars
 
-- [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) (today)
+- [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) (1 day ago)
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (2 weeks ago)
