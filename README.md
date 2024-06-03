@@ -32,11 +32,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions. (today)
 - [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) (3 days ago)
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (3 weeks ago)
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic (3 weeks ago)
 
 #### ✏️ Recent snippets
 
