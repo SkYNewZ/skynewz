@@ -27,14 +27,14 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.45.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.45.0), 1 week ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v0.45.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v0.45.0), 2 weeks ago) - Terraform OVH provider
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 1 month ago) - Pushover handler for slog logger
 
 #### ⭐ Recent stars
 
-- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions. (today)
-- [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) (3 days ago)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (2 weeks ago)
+- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions. (1 day ago)
+- [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) (4 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (3 weeks ago)
 
