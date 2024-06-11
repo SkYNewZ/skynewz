@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (1 month ago)
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (today)
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (1 month ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (3 months ago)
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine. (4 months ago)
