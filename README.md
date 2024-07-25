@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang HTTP RoundTripper that handles GitHub API secondary rate limits (today)
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN (2 weeks ago)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (2 weeks ago)
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener. (3 weeks ago)
 - [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener (3 weeks ago)
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (4 weeks ago)
 
 #### ✏️ Recent snippets
 
