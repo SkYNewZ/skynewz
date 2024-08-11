@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre).
 - [SkYNewZ/_](https://github.com/SkYNewZ/_) - URL shortener based on https://github.com/brunoluiz/urlzap
 - [SkYNewZ/gh-stars-search-engine](https://github.com/SkYNewZ/gh-stars-search-engine) - You own GitHub stars search engine.
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions.
@@ -13,16 +14,15 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/awesome-stars](https://github.com/SkYNewZ/awesome-stars) - My awesome stars list
 - [SkYNewZ/youtube-sorter](https://github.com/SkYNewZ/youtube-sorter) - Sort videos by duration from YouTube playlist
 - [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli
-- [SkYNewZ/putio-operator](https://github.com/SkYNewZ/putio-operator) - Manage RSS feeds from Kubernetes Custom Resources 
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre). (today)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (3 weeks ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 weeks ago)
 - [SkYNewZ/_](https://github.com/SkYNewZ/_) - URL shortener based on https://github.com/brunoluiz/urlzap (1 month ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (2 months ago)
-- [SkYNewZ/gitignore](https://github.com/SkYNewZ/gitignore) - Generate .gitignore from cli (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
