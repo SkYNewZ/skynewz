@@ -19,7 +19,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 week ago)
-- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre). (2 weeks ago)
+- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre). (3 weeks ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/_](https://github.com/SkYNewZ/_) - URL shortener based on https://github.com/brunoluiz/urlzap (2 months ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (2 months ago)
@@ -27,7 +27,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 🚀 Latest releases I've contributed to
 
 
-- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 3 months ago) - Pushover handler for slog logger
+- [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) ([v0.0.2](https://github.com/SkYNewZ/slog-pushover/releases/tag/v0.0.2), 4 months ago) - Pushover handler for slog logger
 
 #### ⭐ Recent stars
 
