@@ -19,7 +19,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (2 weeks ago)
-- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre). (4 weeks ago)
+- [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre). (1 month ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/_](https://github.com/SkYNewZ/_) - URL shortener based on https://github.com/brunoluiz/urlzap (2 months ago)
 - [SkYNewZ/slog-pushover](https://github.com/SkYNewZ/slog-pushover) - Pushover handler for slog logger (3 months ago)
@@ -31,9 +31,9 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3 (today)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow (today)
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs (1 day ago)
+- [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3 (1 day ago)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow (1 day ago)
+- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs (2 days ago)
 - [PHD59fr/awtrix3](https://github.com/PHD59fr/awtrix3) - Python scripts for controlling the displays of Awtrix 3. These scripts offer features such as real-time command execution and visual effects management. They are designed for easy interaction with an Awtrix 3 instance via MQTT. (1 week ago)
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 week ago)
 
