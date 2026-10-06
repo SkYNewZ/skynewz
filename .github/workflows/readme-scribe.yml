@@ -3,15 +3,20 @@ name: Update README.md
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
   schedule:
     - cron: "0 */1 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v7
 
       - name: Generate README.md
         uses: muesli/readme-scribe@master
@@ -22,15 +27,13 @@ jobs:
           writeTo: "README.md"
 
       - name: Upload README.md as artifact
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v7
         with:
           name: README.md
           path: README.md
 
       - name: Commit README.md
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update generated README.md
           branch: main
