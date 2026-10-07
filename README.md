@@ -22,7 +22,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 week ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (1 month ago)
 - [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (2 months ago)
-- [SkYNewZ/claude-code-qwen](https://github.com/SkYNewZ/claude-code-qwen) - Try to use Qwen with Claude Code (2 months ago)
+- [SkYNewZ/claude-code-qwen](https://github.com/SkYNewZ/claude-code-qwen) - Try to use Qwen with Claude Code (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍 (1 day ago)
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍 (2 days ago)
 - [sosoj92/signal-matin](https://github.com/sosoj92/signal-matin) - Un journal personnel A4 genere chaque matin pour remplacer le scroll. (1 week ago)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (2 weeks ago)
 - [itsankoff/gopro-plus](https://github.com/itsankoff/gopro-plus) - 🎥 GoPro Plus CLI: Surpass the 25-file limit 🚧 and batch download ⬇️ your GoPro media 🎬 effortlessly. Perfect for NAS 💾 and Synology migrations 🔄. Docker image available 🐳. (3 weeks ago)
-- [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge. (4 weeks ago)
+- [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge. (1 month ago)
 
 #### ✏️ Recent snippets
 
