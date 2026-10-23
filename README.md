@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (1 day ago)
+- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (2 days ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 weeks ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
 - [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (2 months ago)
@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It&#39;s like v0, but in your Cursor / Claude Code / Windsurf: search 10,000&#43; React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp (today)
-- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons (today)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (today)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (today)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It&#39;s like v0, but in your Cursor / Claude Code / Windsurf: search 10,000&#43; React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp (1 day ago)
+- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons (1 day ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 day ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1 day ago)
 
 #### ✏️ Recent snippets
 
