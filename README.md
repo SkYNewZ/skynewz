@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (2 days ago)
+- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (3 days ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 weeks ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
 - [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (2 months ago)
@@ -31,17 +31,17 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It&#39;s like v0, but in your Cursor / Claude Code / Windsurf: search 10,000&#43; React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp (1 day ago)
-- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons (1 day ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 day ago)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1 day ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It&#39;s like v0, but in your Cursor / Claude Code / Windsurf: search 10,000&#43; React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp (2 days ago)
+- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons (2 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (2 days ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 days ago)
 
 #### ✏️ Recent snippets
 
 
 - [.golangci.yaml golden configuration](https://gist.github.com/1298ddacb28d23738a9498509765baae) - 2 years ago
-- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 2 years ago
+- [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 3 years ago
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 4 years ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 4 years ago
 - [Dockerfile](https://gist.github.com/0a0e1b32f91ea09efa1f5bdfef480b21) - 5 years ago
