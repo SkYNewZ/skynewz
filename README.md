@@ -6,6 +6,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 💻 My latest projects
 
 
+- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click.
 - [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive.
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract.
 - [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines
@@ -13,16 +14,15 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/claude-code-bootstrap](https://github.com/SkYNewZ/claude-code-bootstrap) - Bootstrap idempotent d&#39;un poste Claude Code (macOS/Linux) : outils CLI, configuration, plugins et MCP, via Homebrew ou Mise. Aucun secret versionné.
 - [SkYNewZ/little-snitch-rules](https://github.com/SkYNewZ/little-snitch-rules) - My custom Little Snitch rules
 - [SkYNewZ/calculateur-gonflage-plongee](https://github.com/SkYNewZ/calculateur-gonflage-plongee) - Calculateur de temps de gonflage d&#39;un ensemble de bouteille de plongées (ou autre).
-- [SkYNewZ/_](https://github.com/SkYNewZ/_) - URL shortener based on https://github.com/brunoluiz/urlzap
 
 #### 👷 Check out what I'm currently working on
 
 
+- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (today)
 - [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (1 week ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
 - [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (3 months ago)
-- [SkYNewZ/claude-code-qwen](https://github.com/SkYNewZ/claude-code-qwen) - Try to use Qwen with Claude Code (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (today)
 - [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (today)
 - [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (1 day ago)
 - [SKZL-AI/boris-cherny-claude-code-playbook](https://github.com/SKZL-AI/boris-cherny-claude-code-playbook) - 132 Claude Code tips from Boris Cherny (Head of Claude Code, Anthropic) — curated, German-language, auto-updated 2-3x daily. One-shot Implementation Guide for Claude Code auto-setup. Visual dashboard with filters &amp; timeline. (2 days ago)
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub URL. (2 days ago)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 days ago)
 
 #### ✏️ Recent snippets
 
