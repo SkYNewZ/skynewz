@@ -21,7 +21,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (1 week ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
-- [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (2 months ago)
+- [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (3 months ago)
 - [SkYNewZ/claude-code-qwen](https://github.com/SkYNewZ/claude-code-qwen) - Try to use Qwen with Claude Code (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
@@ -31,16 +31,16 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (today)
-- [SKZL-AI/boris-cherny-claude-code-playbook](https://github.com/SKZL-AI/boris-cherny-claude-code-playbook) - 132 Claude Code tips from Boris Cherny (Head of Claude Code, Anthropic) — curated, German-language, auto-updated 2-3x daily. One-shot Implementation Guide for Claude Code auto-setup. Visual dashboard with filters &amp; timeline. (1 day ago)
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub URL. (1 day ago)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 days ago)
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (3 days ago)
+- [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (1 day ago)
+- [SKZL-AI/boris-cherny-claude-code-playbook](https://github.com/SKZL-AI/boris-cherny-claude-code-playbook) - 132 Claude Code tips from Boris Cherny (Head of Claude Code, Anthropic) — curated, German-language, auto-updated 2-3x daily. One-shot Implementation Guide for Claude Code auto-setup. Visual dashboard with filters &amp; timeline. (2 days ago)
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub URL. (2 days ago)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 days ago)
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (4 days ago)
 
 #### ✏️ Recent snippets
 
 
-- [.golangci.yaml golden configuration](https://gist.github.com/1298ddacb28d23738a9498509765baae) - 2 years ago
+- [.golangci.yaml golden configuration](https://gist.github.com/1298ddacb28d23738a9498509765baae) - 3 years ago
 - [Get YouTube channel ID from channel URL in Go](https://gist.github.com/876c3fe69d7d84cf47510032194ff888) - 3 years ago
 - [Go constant backoff retry with max iterations count](https://gist.github.com/69f09bb63ed1429557aa9121042531fa) - 4 years ago
 - [Golang append using make/cap vs slice literal](https://gist.github.com/ebdcb5d1737bcabc66238d0818250f4b) - 4 years ago
