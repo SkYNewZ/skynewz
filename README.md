@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 6,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (today)
 - [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (today)
 - [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (today)
 - [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (1 day ago)
 - [SKZL-AI/boris-cherny-claude-code-playbook](https://github.com/SKZL-AI/boris-cherny-claude-code-playbook) - 132 Claude Code tips from Boris Cherny (Head of Claude Code, Anthropic) — curated, German-language, auto-updated 2-3x daily. One-shot Implementation Guide for Claude Code auto-setup. Visual dashboard with filters &amp; timeline. (2 days ago)
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub URL. (2 days ago)
 
 #### ✏️ Recent snippets
 
