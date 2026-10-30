@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (today)
 - [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 6,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (1 day ago)
 - [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (1 day ago)
 - [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (1 day ago)
 - [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (2 days ago)
-- [SKZL-AI/boris-cherny-claude-code-playbook](https://github.com/SKZL-AI/boris-cherny-claude-code-playbook) - 132 Claude Code tips from Boris Cherny (Head of Claude Code, Anthropic) — curated, German-language, auto-updated 2-3x daily. One-shot Implementation Guide for Claude Code auto-setup. Visual dashboard with filters &amp; timeline. (3 days ago)
 
 #### ✏️ Recent snippets
 
