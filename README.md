@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (1 day ago)
+- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (2 days ago)
 - [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (1 week ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (today)
-- [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 6,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (1 day ago)
-- [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (1 day ago)
-- [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (1 day ago)
-- [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (2 days ago)
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
+- [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 6,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (2 days ago)
+- [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (2 days ago)
+- [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (2 days ago)
+- [Reebz/claude-battery](https://github.com/Reebz/claude-battery) - Your Claude usage, at a glance. A macOS menu bar widget that shows how much of your weekly quota remains — as a battery. (3 days ago)
 
 #### ✏️ Recent snippets
 
