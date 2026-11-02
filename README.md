@@ -31,11 +31,11 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
+- [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (today)
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (today)
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 days ago)
 - [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 6,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (4 days ago)
 - [Nicovic17/vanish_webcam](https://github.com/Nicovic17/vanish_webcam) (4 days ago)
-- [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. (4 days ago)
 
 #### ✏️ Recent snippets
 
