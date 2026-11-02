@@ -19,10 +19,10 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 
 - [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (today)
+- [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (today)
 - [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (4 days ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (2 months ago)
-- [SkYNewZ/maree](https://github.com/SkYNewZ/maree) - App iOS native (SwiftUI) de consultation hors ligne de fiches d&#39;espèces sous-marines (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
