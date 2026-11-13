@@ -18,8 +18,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (3 days ago)
-- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (6 days ago)
+- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (4 days ago)
+- [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (1 week ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (1 week ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [SkYNewZ/enigma](https://github.com/SkYNewZ/enigma) - Toy 1-to-1 iOS messenger whose encryption faithfully simulates an Enigma I machine: SwiftUI app, blind Go relay, shared protobuf contract. (3 months ago)
@@ -34,7 +34,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 - [karanb192/cache-tax](https://github.com/karanb192/cache-tax) - Keep Claude Code’s prompt cache warm during breaks and show the estimated cost before a cold send. (1 week ago)
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (1 week ago)
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (1 week ago)
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
 - [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 8,000&#43; Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints. (2 weeks ago)
 
 #### ✏️ Recent snippets
