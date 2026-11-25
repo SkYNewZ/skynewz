@@ -18,7 +18,7 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 #### 👷 Check out what I'm currently working on
 
 
-- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (6 days ago)
+- [SkYNewZ/sos-vpdive](https://github.com/SkYNewZ/sos-vpdive) - Outil de ticketing pour le Centre de plongée du Pradet pour faciliter la gestion et l&#39;utilisation de VPdive. (1 week ago)
 - [SkYNewZ/mft](https://github.com/SkYNewZ/mft) - Always get the latest FFESSM MFT files and upload them to a Google Drive. Run with GitHub Actions. (1 week ago)
 - [SkYNewZ/grove](https://github.com/SkYNewZ/grove) - Native macOS app that lists the git worktrees of all your repos, shows which ones are safe to delete, and opens them in a terminal, Claude Code or their PR/MR in one click. (2 weeks ago)
 - [SkYNewZ/skynewz](https://github.com/SkYNewZ/skynewz) - My personal GitHub Profile (3 weeks ago)
@@ -31,8 +31,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [SoluceTechnologies/openmailbox](https://github.com/SoluceTechnologies/openmailbox) - An open source mail client for iOS and Android, with no server in between. (today)
-- [karanb192/cache-tax](https://github.com/karanb192/cache-tax) - Keep Claude Code’s prompt cache warm during breaks and show the estimated cost before a cold send. (2 weeks ago)
+- [SoluceTechnologies/openmailbox](https://github.com/SoluceTechnologies/openmailbox) - An open source mail client for iOS and Android, with no server in between. (1 day ago)
+- [karanb192/cache-tax](https://github.com/karanb192/cache-tax) - Keep Claude Code’s prompt cache warm during breaks and show the estimated cost before a cold send. (3 weeks ago)
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (3 weeks ago)
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (3 weeks ago)
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50&#43; coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 weeks ago)
