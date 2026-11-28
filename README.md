@@ -31,8 +31,8 @@ I have made the concept of DevOps my favorite field and try to learn a little mo
 
 #### ⭐ Recent stars
 
-- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents (2 days ago)
-- [SoluceTechnologies/openmailbox](https://github.com/SoluceTechnologies/openmailbox) - An open source mail client for iOS and Android, with no server in between. (3 days ago)
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents (3 days ago)
+- [SoluceTechnologies/openmailbox](https://github.com/SoluceTechnologies/openmailbox) - An open source mail client for iOS and Android, with no server in between. (4 days ago)
 - [karanb192/cache-tax](https://github.com/karanb192/cache-tax) - Keep Claude Code’s prompt cache warm during breaks and show the estimated cost before a cold send. (3 weeks ago)
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (3 weeks ago)
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (3 weeks ago)
